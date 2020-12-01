@@ -1,5 +1,5 @@
 This project is a simple tuto for using scrapy for web scraping. 
-As example we use [Jumia Senegal](https://www.jumia.sn) and the laptop category website.
+As example we use [Jumia Senegal](https://www.jumia.sn) website and focused on the laptop category .
 
 This project is organized as:
 
